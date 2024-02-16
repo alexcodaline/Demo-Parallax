@@ -4,5 +4,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Parallax effect
 
-In the project directory, you can run:
+![Screenshot](https://github.com/alexcodaline/Demo-Parallax/blob/main/src/img/screenParallax.png)
 
